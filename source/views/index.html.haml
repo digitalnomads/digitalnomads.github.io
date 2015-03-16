@@ -31,25 +31,13 @@ title:  NomadWiki - Because nomads love sharing!
 .container
   #philosophy.underline
     %h3 Philosophy
-    - data.philosophy.each do |line|
-      .entry
-      = link_to line[0]
-      = line[1]
+    = partial(:entries, locals: { entries: data.philosophy })
   #gear.underline
     %h3 Gear
-    - data.gear.each do |line|
-      .entry
-      = link_to line[0]
-      = line[1]
+    = partial(:entries, locals: { entries: data.gear })
   #software.underline
     %h3 Software
-    - data.software.each do |line|
-      .entry
-      = link_to line[0]
-      = line[1]
+    = partial(:entries, locals: { entries: data.software })
   #locations.underline
     %h3 Locations
-    - data.locations.each do |line|
-      .entry
-      = link_to line[0]
-      = line[1]
+    = partial(:entries, locals: { entries: data.locations })
