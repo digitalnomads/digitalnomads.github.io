@@ -20,26 +20,30 @@ title:  NomadWiki - Because nomads love sharing!
           %a.logo{:href => "javascript:void(0)"}
             =image_tag 'nomadwiki_mini.png'
         %li.nav-link
-          %a{:href => "#software"} Software
+          %a{:href => "#community"} Community
         %li.nav-link
           %a{:href => "#locations"} Locations
 
 .hero.underline
   .hero-inner
-    %a.hero-logo{:href => ""}
+    %a.logo.hero-logo{:href => ""}
       = image_tag 'nomadwiki.png'
     .hero-copy
       %p Know your options in a big world of possibilities!
 .container
   #philosophy.underline
     %h3 Philosophy
+    = link_to 'edit', 'https://github.com/digitalnomads/digitalnomads.github.io/edit/source/data/philosophy.yml'
     = partial(:entries, locals: { entries: data.philosophy })
   #gear.underline
     %h3 Gear
+    = link_to 'edit', 'https://github.com/digitalnomads/digitalnomads.github.io/edit/source/data/gear.yml'
     = partial(:entries, locals: { entries: data.gear })
-  #software.underline
-    %h3 Software
-    = partial(:entries, locals: { entries: data.software })
+  #community.underline
+    %h3 Community
+    = link_to 'edit', 'https://github.com/digitalnomads/digitalnomads.github.io/edit/source/data/software.yml'
+    = partial(:entries, locals: { entries: data.community })
   #locations.underline
     %h3 Locations
+    = link_to 'edit', 'https://github.com/digitalnomads/digitalnomads.github.io/edit/source/data/locations.yml'
     = partial(:entries, locals: { entries: data.locations })
