@@ -9,5 +9,17 @@ body {
 }
 
 .underline {
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid $grey;
+}
+
+.entry:hover {
+  background: none repeat scroll 0% 0% $grey;
+}
+
+.entry span {
+  @include position(relative, 0 null null 10em);
+}
+
+a.logo:hover {
+  cursor: url(../sym57.cur), progress !important;
 }
