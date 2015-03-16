@@ -7,3 +7,7 @@ gem "middleman-livereload"
 gem "middleman-deploy"
 gem "bourbon"
 gem "neat"
+gem 'font-awesome-middleman', '~> 4.2.3'
+gem 'middleman-spellcheck', '~> 0.7.5'
+gem 'middleman-disqus', '~> 1.0.0'
+gem 'middleman-ogp', '~> 1.0.4'
