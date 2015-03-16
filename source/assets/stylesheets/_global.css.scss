@@ -11,13 +11,56 @@ body {
 .underline {
   border-bottom: 1px solid $grey;
 }
-
-.entry:hover {
-  background: none repeat scroll 0% 0% $grey;
+.category_title {
+  margin-top: 10px;
+  position: relative;
+  h3 { display: inline; }
+  a {
+    display:inline;
+    right: 0;
+    position: absolute;
+  }
 }
 
-.entry span {
-  @include position(relative, 0 null null 10em);
+.entry-group {
+  list-style: outside none none;
+  margin-top: 10px;
+  padding-left: 0;
+  &:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+}
+
+.entry {
+  border-radius: 3px;
+  box-sizing: border-box;
+  clear: both;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 17px;
+  margin: 0 -10px;
+  min-height: 42px;
+  padding: 6px;
+  position: relative;
+  list-style: outside none none;
+
+  .entry-content  {
+    padding-top: 7px;
+    .comments {
+      display: inline;
+      right: 8px;
+      position: absolute;
+    }
+  }
+
+  &:hover {
+    background: none repeat scroll 0% 0% $grey;
+  }
+  span {
+    position: absolute;
+  }
 }
 
 a.logo:hover {

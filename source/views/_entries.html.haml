@@ -1,6 +1,8 @@
+%ul.entry-group
 - entries.each do |line|
-  .entry
-    = link_to line[1], line[0]
-    %span
-      1
-      %i.fa.fa-comment-o
+  %li.entry
+    .entry-content
+      = link_to line[1], line[0]
+      %a.comments
+        1
+        %i.fa.fa-comment-o
