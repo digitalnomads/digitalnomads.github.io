@@ -14,16 +14,16 @@ title:  NomadWiki - Because nomads love sharing!
     %nav{:role => "navigation"}
       %ul#js-centered-navigation-menu.centered-navigation-menu.show
         %li.nav-link
-          %a{:href => "#philosophy"} Philosophy
+          %a{:href => "#community"} Community
         %li.nav-link
           %a{:href => "#gear"} Gear
         %li.nav-link.logo
           %a.logo{:href => "javascript:void(0)"}
             =image_tag 'nomadwiki_mini.png'
         %li.nav-link
-          %a{:href => "#community"} Community
-        %li.nav-link
           %a{:href => "#locations"} Locations
+        %li.nav-link
+          %a{:href => "#misc"} Misc
 
 .hero.underline
   .hero-inner
@@ -32,15 +32,17 @@ title:  NomadWiki - Because nomads love sharing!
     .hero-copy
       %p Know your options in a big world of possibilities!
 .container
-  #philosophy.underline
-    = partial(:category, locals: { title: 'philosophy'} )
-    = partial(:entries, locals: { entries: data.philosophy })
-  #gear.underline
-    = partial(:category, locals: { title: 'gear'} )
-    = partial(:entries, locals: { entries: data.gear })
   #community.underline
     = partial(:category, locals: { title: 'community'} )
     = partial(:entries, locals: { entries: data.community })
+  #gear.underline
+    = partial(:category, locals: { title: 'gear'} )
+    = partial(:entries, locals: { entries: data.gear })
   #locations.underline
     = partial(:category, locals: { title: 'locations'} )
     = partial(:entries, locals: { entries: data.locations })
+  #misc.underline
+    = partial(:category, locals: { title: 'misc'} )
+    = partial(:entries, locals: { entries: data.misc })
+
+.footer
