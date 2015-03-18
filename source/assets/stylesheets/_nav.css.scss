@@ -51,8 +51,7 @@
     line-height: $centered-navigation-height;
     margin: 0;
     padding-right: $centered-navigation-submenu-padding;
-    text-decoration: none;
-    text-transform: uppercase;
+    padding-top: 8px;
 
     @include media ($horizontal-bar-mode) {
       display: none;
