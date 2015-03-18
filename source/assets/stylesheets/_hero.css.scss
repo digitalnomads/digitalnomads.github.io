@@ -22,6 +22,20 @@
     margin-bottom: 1em;
   }
 
+  .twitter {
+    @include button(simple, #4c99cf);
+  }
+
+  .facebook {
+    @include button(simple, #3f5da8);
+    &:hover { color: $light-gray }
+  }
+
+  .github {
+    @include button(simple, white);
+    color: $dark-gray;
+  }
+
   .hero-inner {
     @include outer-container;
     @include clearfix;
