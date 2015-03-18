@@ -12,20 +12,19 @@ body {
   border-bottom: 1px solid $grey;
 }
 .category_title {
+  padding-left: 6px;
   margin-top: 10px;
   position: relative;
   h3 { display: inline; }
   a {
     display:inline;
-    right: 0;
+    right: 6px;
     position: absolute;
   }
 }
 
 .entry-group {
   list-style: outside none none;
-  margin-top: 10px;
-  padding-left: 0;
   &:after {
     clear: both;
     content: "";
