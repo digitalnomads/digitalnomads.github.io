@@ -1,9 +1,6 @@
 ---
-title:  NomadWiki - Because nomads love sharing!
+title:  NomadWiki because digital nomads love sharing!
 ---
-
-%a{:href => "https://github.com/digitalnomads/digitalnomads.github.io"}
-  %img{:alt => "Fork me on GitHub", "data-canonical-src" => "https://s3.amazonaws.com/github/ribbons/forkme_left_white_ffffff.png", :src => "https://camo.githubusercontent.com/c6286ade715e9bea433b4705870de482a654f78a/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f77686974655f6666666666662e706e67", :style => "position: absolute; top: 0; left: 0; border: 0;"}/
 
 %header.centered-navigation{:role => "banner"}
   .centered-navigation-wrapper
@@ -31,6 +28,15 @@ title:  NomadWiki - Because nomads love sharing!
       = image_tag 'nomadwiki.png'
     .hero-copy
       %p Know your options in a big world of possibilities!
+    %a.twitter{:href=>'//twitter.com/intent/tweet?text=Know+your+options+in+a+big+world+of+possibilities!;hashtags=nomadwiki%2C&amp;related=lunat1que&amp;url=http%3A%2F%2Fnomadwiki.net'}
+      %i.fa.fa-twitter
+        Tweet
+    %a.facebook{:href=>'//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomadlist.net&amp;layout=button'}
+      %i.fa.fa-facebook
+        Share
+    %a.github{:href=> 'https://github.com/digitalnomads/digitalnomads.github.io/tree/source'}
+      .fa.fa-github
+        Contribute
 .container
   #community.underline
     = partial(:category, locals: { title: 'community'} )

@@ -11,6 +11,20 @@ body {
 .underline {
   border-bottom: 1px solid $grey;
 }
+
+.twitter {
+  @include button(simple, #4c99cf);
+}
+
+.facebook {
+  @include button(simple, #3f5da8);
+  &:hover { color: $light-gray }
+}
+
+.github {
+  @include button(simple, white);
+  color: $dark-gray;
+}
 .category_title {
   padding-left: 6px;
   margin-top: 10px;
