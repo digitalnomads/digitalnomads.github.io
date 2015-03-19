@@ -12,11 +12,19 @@ set :layout, 'layouts/application'
 
 configure :development do
  activate :livereload
+
+ activate :disqus do |d|
+    d.shortname = "dev-nomadwiki"
+  end
 end
 
 configure :build do
   # Relative assets needed to deploy to Github Pages
   activate :relative_assets
+
+  activate :disqus do |d|
+    d.shortname = 'nomadwiki' # Replace with your Disqus shortname.
+  end
 end
 
 activate :deploy do |deploy|
