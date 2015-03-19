@@ -85,8 +85,6 @@ GEM
       em-websocket (~> 0.5.1)
       middleman-core (>= 3.3)
       rack-livereload (~> 0.3.15)
-    middleman-ogp (1.0.4)
-      middleman-core (~> 3.2)
     middleman-spellcheck (0.7.5)
       middleman-core (~> 3.2)
       nokogiri
@@ -154,6 +152,5 @@ DEPENDENCIES
   middleman-deploy
   middleman-disqus (~> 1.0.0)
   middleman-livereload
-  middleman-ogp (~> 1.0.4)
   middleman-spellcheck (~> 0.7.5)
   neat
