@@ -1,18 +1,13 @@
 .hero {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-border-radius: 3px !default;
-  $base-accent-color: #477DCA !default;
   $large-screen: em(860) !default;
   //////////////////////////////////////////////////////////////////////////////////
 
-  $hero-background-top: #7F99BE;
-  $hero-background-bottom: #20392B;
   $hero-color: $medium-gray;
   $gradient-angle: 10deg;
-  $hero-image: '/assets/images/beach_mini.png';
 
-  @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
-  //background-color: #324766;
+  @include background(url('/assets/images/beach_mini.png'));
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
