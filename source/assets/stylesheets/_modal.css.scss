@@ -1,0 +1,159 @@
+.modal {
+  ///////////////////////////////////////////////////////////////////////////////////
+  $base-border-color: gainsboro !default;
+  $base-border-radius: 3px !default;
+  $base-background-color: white !default;
+  $base-font-size: 1em !default;
+  $base-line-height: 1.5em !default;
+  $base-accent-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $light-gray: #DDD !default;
+  $medium-screen: em(640) !default;
+  $large-screen: em(860) !default;
+  $base-font-color: $dark-gray !default;
+
+  h2 {
+    margin: 0;
+  }
+
+  .modal-inner {
+    color: $base-font-color;
+    line-height: $base-line-height;
+    overflow:hidden;
+
+    iframe {
+      width:100%;
+      padding:0;
+      border:0;
+      height:80%;
+    }
+  }
+  //////////////////////////////////////////////////////////////////////////////////
+
+  $modal-padding: 3em;
+  $modal-background: $base-background-color;
+  $modal-close-color: $light-gray;
+  $modal-image-height: 500px;
+  $modal-image-width: $modal-image-height;
+  $modal-trigger-image-width: 300px;
+
+  label {
+    cursor: pointer;
+    margin-bottom: 0;
+  }
+
+  label img {
+    border-radius: $modal-trigger-image-width / 2;
+    display: block;
+    max-width: $modal-trigger-image-width;
+  }
+
+  .modal-state {
+    display: none;
+  }
+
+  .modal-window { // overlay
+    @include transition(opacity 0.25s ease);
+    @include position(fixed, 0px 0px 0px 0px);
+    background: rgba(0,0,0, 0.85);
+    opacity: 0;
+    padding-top: 0.6em;
+    text-align: left;
+    visibility: hidden;
+    z-index: 99999999999;
+
+    @include media($large-screen) {
+      padding-top: 10em;
+    }
+
+    .modal-bg {
+      @include position(absolute, 0px 0px 0px 0px);
+      cursor: pointer;
+    }
+  }
+
+  .modal-close {
+    @include position(absolute, ($modal-padding /2) ($modal-padding /2) null null);
+    @include size(1.5em);
+    background: $modal-background;
+    cursor: pointer;
+
+    &:after,
+    &:before {
+      @include position(absolute, 3px 3px 0 50%);
+      @include transform(rotate(45deg));
+      @include size(0.15em 1.5em);
+      background: $modal-close-color;
+      content: '';
+      display: block;
+      margin: -3px 0 0 -1px;
+    }
+
+    &:hover:after,
+    &:hover:before {
+      background: darken($modal-close-color, 10%);
+    }
+
+    &:before {
+      @include transform(rotate(-45deg));
+    }
+  }
+
+  .modal-inner {
+    @include transition(opacity 0.25s ease);
+    background: $modal-background;
+    border-radius: $base-border-radius;
+    margin-top: 0;
+    margin: auto;
+    max-height: 95%;
+    overflow: auto;
+    padding: $modal-padding / 2;
+    position: relative;
+    width: 95%;
+
+    @include media($medium-screen) {
+      max-height: 100%;
+      padding: $modal-padding;
+      width: 100%;
+      height: 90%;
+    }
+
+    @include media($large-screen) {
+      width: 100%;
+      height: 90%;
+    }
+
+    h2 {
+      color: $base-font-color;
+      margin-bottom: 0.6em;
+      text-align: left;
+      text-transform: capitalize;
+    }
+  
+    a.cta {
+      color: white;
+      display: inline-block;
+      margin-right: 0.5em;
+      margin-top: 1em;
+
+      &:last-child {
+        padding: 0 2em;
+      }
+    }
+  }
+
+  .modal-state:checked + .modal-window {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .modal-state:checked + .modal-window .modal-inner {
+    top: 0.5em;
+  }
+}
+
+.modal-open {
+  overflow: hidden;
+}
+
+// Based on code by Kasper Mikiewicz

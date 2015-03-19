@@ -10,6 +10,8 @@ set :images_dir, 'assets/images'
 set :fonts_dir, 'assets/fonts'
 set :layout, 'layouts/application'
 
+page '/modal.html', :layout => false
+
 configure :development do
  activate :livereload
 

@@ -3,6 +3,15 @@
   %li.entry
     .entry-content
       = link_to line[1], line[0]
-      %a.comments
-        1
-        %i.fa.fa-comment-o
+      .modal.comments
+        %label{:for => "modal-1"}
+          %a
+            = disqus_count
+            %i.fa.fa-comment-o
+        %input#modal-1.modal-state{:type => "checkbox"}/
+        .modal-window
+          .modal-inner
+            %label.modal-close{:for => "modal-1"}
+            %h2
+              = line[1]
+            %iframe{:src => "modal"}
