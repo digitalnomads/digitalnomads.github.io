@@ -22,6 +22,8 @@
     margin-bottom: 1em;
   }
 
+  .button { margin: 5px; }
+
   .twitter {
     @include button(simple, #4c99cf);
   }
