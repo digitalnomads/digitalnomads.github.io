@@ -153,4 +153,5 @@ DEPENDENCIES
   middleman-disqus (~> 1.0.0)
   middleman-livereload
   middleman-spellcheck (~> 0.7.5)
+  minitest
   neat
