@@ -4,14 +4,13 @@
     .entry-content
       = link_to line[1], line[0]
       .modal.comments
-        %label{:for => "modal-1"}
+        %label{:for => "modal-#{WikiHelpers.urlify(line[1])}"}
           %a
-            = disqus_count
             %i.fa.fa-comment-o
         %input#modal-1.modal-state{:type => "checkbox"}/
         .modal-window
           .modal-inner
-            %label.modal-close{:for => "modal-1"}
+            %label.modal-close{:for => "modal-#{WikiHelpers.urlify(line[1])}"}
             %h2
               = line[1]
-            %iframe{:src => "modal"}
+            %iframe{:'data-src' => "modal"}

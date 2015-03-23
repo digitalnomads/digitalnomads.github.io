@@ -1,5 +1,4 @@
 require "extensions/views"
-require "lib/wiki_helpers"
 
 helpers WikiHelpers
 
