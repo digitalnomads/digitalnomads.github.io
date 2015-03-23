@@ -1,7 +1,5 @@
 require "extensions/views"
 
-helpers WikiHelpers
-
 activate :views
 activate :directory_indexes
 
