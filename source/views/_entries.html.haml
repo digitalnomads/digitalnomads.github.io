@@ -7,7 +7,7 @@
         %label{:for => "modal-#{WikiHelpers.urlify(line[1])}"}
           %a
             %i.fa.fa-comment-o
-        %input#modal-1.modal-state{:type => "checkbox"}/
+        %input.modal-state{:id=> "modal-#{WikiHelpers.urlify(line[1])}", :type => "checkbox"}/
         .modal-window
           .modal-inner
             %label.modal-close{:for => "modal-#{WikiHelpers.urlify(line[1])}"}
