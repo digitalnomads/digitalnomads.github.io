@@ -1,6 +1,6 @@
 ---
 language: ruby
-script: bundle exec middleman build
+script: bundle exec middleman deploy
 
 env:
   global:
