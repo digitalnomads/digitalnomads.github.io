@@ -1,5 +1,6 @@
 language: ruby
 rvm:
   - 2.0.0-p247
- 
+script:  git config --global user.email "support@skylup.com"
+script:  git config --global user.name "Travis CI" 
 script:  bundle exec middleman deploy
