@@ -1,0 +1,24 @@
+---
+language: ruby
+script: bundle exec middleman build
+
+env:
+  global:
+    - GIT_COMMITTER_NAME=digitalnomads
+    - GIT_COMMITTER_EMAIL=info@nomadwiki.net
+    - GIT_AUTHOR_NAME=digitalnomads
+    - GIT_AUTHOR_EMAIL=info@nomadwiki.net
+    - secure: "yFEZttjUvgyCqTKUw8Rp"
+
+before_script:
+  - git clone --quiet https://github.com/digitalnomads/digitalnomads.github.io
+  - pushd build
+  - git checkout -b master
+  - popd
+
+after_success:
+  - cd build
+  - git add -A
+  - git commit -m 'Update'
+  - '[ "$TRAVIS_BRANCH" == "source" ] && [ $GH_TOKEN ] && git push --quiet https://$GH_TOKEN@github.com/digitalnomads/digitalnomads.github.io.git master 2> /dev/null'
+
