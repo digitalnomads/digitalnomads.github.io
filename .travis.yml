@@ -12,7 +12,6 @@ env:
 
 before_script:
   - git clone --quiet https://github.com/digitalnomads/digitalnomads.github.io
-  - pushd build
   - git checkout -b master
 
 after_success:
