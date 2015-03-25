@@ -30,5 +30,20 @@ $(document).ready(function() {
     e.stopPropagation();
   });
 
+  /* this code is responsible got iframe lazy loading */
 
+  var iframes = $('iframe');
+
+  $('label a').click(function() {
+      console.log('test1');
+      iframes.attr('src', function() {
+          return $(this).data('src');
+      });
+  });
+
+  iframes.attr('data-src', function() {
+      var src = $(this).attr('src');
+      $(this).removeAttr('src');
+      return src;
+  });
 });
