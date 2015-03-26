@@ -1,5 +1,5 @@
 module WikiHelpers
-  def self.urlify(str)
-    str.gsub(' ', '_')[0..63].downcase
+  def self.generate_id(title)
+    'modal_' + title.gsub(' ', '_')[0..57].downcase
   end
 end
