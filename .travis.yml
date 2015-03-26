@@ -8,7 +8,7 @@ env:
     - GIT_COMMITTER_EMAIL=info@nomadwiki.net
     - GIT_AUTHOR_NAME=digitalnomads
     - GIT_AUTHOR_EMAIL=info@nomadwiki.net
-    - secure: ""
+    - secure: "byv67D/fUqjszVE2IuzLaku6IlClY1L6/ZPZRVZSvmm4YLHKornLOTBzMCPgOPCxL3wCc0y3L4FocpXaKAJ+TjesHs4aTQEPplTd0GpwTRDT+hVxwB7jzwuTSqsrBLTfJDR4AEMYn9fSRT+9+kNAINe9LnfHbGB2Tyr/vGAip7g"
 
 before_script:
   - git clone --quiet https://github.com/digitalnomads/digitalnomads.github.io
