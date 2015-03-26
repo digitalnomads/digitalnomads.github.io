@@ -1,6 +1,6 @@
 ---
 language: ruby
-script: bundle exec middleman deploy
+script: bundle exec middleman build
 
 env:
   global:
@@ -8,11 +8,11 @@ env:
     - GIT_COMMITTER_EMAIL=info@nomadwiki.net
     - GIT_AUTHOR_NAME=digitalnomads
     - GIT_AUTHOR_EMAIL=info@nomadwiki.net
-    - secure: "fbe1afb5049312a31c79028040dad18698bfc9cb"
+    - secure: ""
 
 before_script:
   - git clone --quiet https://github.com/digitalnomads/digitalnomads.github.io
-  - git checkout -b master
+  - git checkout source
 
 after_success:
   - cd build
