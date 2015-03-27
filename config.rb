@@ -56,3 +56,7 @@ helpers do
     link_to(link_text, page_url, options)
   end
 end
+
+all_ids.each do |id|
+  proxy "/modal/#{id}.html", "/modal.html"
+end
