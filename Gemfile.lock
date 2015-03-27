@@ -13,6 +13,7 @@ GEM
     celluloid (0.16.0)
       timers (~> 4.0.0)
     chunky_png (1.3.4)
+    coderay (1.1.0)
     coffee-script (2.3.0)
       coffee-script-source
       execjs
@@ -52,6 +53,7 @@ GEM
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
+    method_source (0.8.2)
     middleman (3.3.10)
       coffee-script (~> 2.2)
       compass (>= 1.0.0, < 2.0.0)
@@ -85,6 +87,9 @@ GEM
       em-websocket (~> 0.5.1)
       middleman-core (>= 3.3)
       rack-livereload (~> 0.3.15)
+    middleman-pry (0.0.4)
+      middleman-core (~> 3.2)
+      pry (~> 0.9)
     middleman-spellcheck (0.7.5)
       middleman-core (~> 3.2)
       nokogiri
@@ -95,6 +100,7 @@ GEM
       sprockets-sass (~> 1.3.0)
     mini_portile (0.6.2)
     minitest (5.5.1)
+    minitest-spec-context (0.0.3)
     multi_json (1.11.0)
     neat (1.7.2)
       bourbon (>= 4.0)
@@ -110,6 +116,10 @@ GEM
       tilt (~> 1.4.1)
     padrino-support (0.12.5)
       activesupport (>= 3.1)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     ptools (1.3.2)
     rack (1.6.0)
     rack-livereload (0.3.15)
@@ -120,6 +130,7 @@ GEM
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     sass (3.4.13)
+    slop (3.6.0)
     sprockets (2.12.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -152,6 +163,8 @@ DEPENDENCIES
   middleman-deploy
   middleman-disqus (~> 1.0.0)
   middleman-livereload
+  middleman-pry
   middleman-spellcheck (~> 0.7.5)
   minitest
+  minitest-spec-context
   neat

@@ -1,4 +1,7 @@
 require "extensions/views"
+require 'lib/wiki_helpers'
+
+helpers WikiHelpers
 
 activate :views
 activate :directory_indexes
@@ -36,6 +39,12 @@ activate :deploy do |deploy|
 end
 
 helpers do
+  def all_ids
+    ids = []
+    data.to_h.each_value {|t| ids << t.map {|v| WikiHelpers.generate_id(v[1]) }}
+    ids.flatten
+  end
+
   def nav_link(link_text, page_url, options = {})
     options[:class] ||= ""
     if current_page.url.length > 1
