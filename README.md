@@ -9,6 +9,17 @@ There was a need of storing essential information for (#nomads community)[http:/
 
 Site is available (http://www.nomadwiki.net)[http://www.nomadwiki.net]
 
+# Requirements
+- Ruby
+- Git
+
+# Running project locally
+- bundle install
+- middleman 
+- go to http://localhost:4567/
+
+All the changes in files are automatically updated
+
 # Goal
 The goal is not gather all posibile products aimed/suitable for digital nomads, but offer information that helps know possibile solutions and helps make educated decision. 
 
