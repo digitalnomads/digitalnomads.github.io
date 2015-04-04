@@ -1,5 +1,5 @@
 # Introduction
-There was a need of storing essential information for (#nomads community)[http://hashtagnomads.com]. Obvios way of doing it is using wiki, but all the wiki engines out there are pretty complicated.So this idea of using github and middleman was born.
+There was a need of storing essential information for [#nomads community](http://hashtagnomads.com). Obvios way of doing it is using wiki, but all the wiki engines out there are pretty complicated.So this idea of using github and middleman was born.
 
 - This is completely open source project hosted by Github pages
 - Powered by Middleman static site generator
@@ -7,7 +7,7 @@ There was a need of storing essential information for (#nomads community)[http:/
 - Website could be built and published automatically by CircleCi or any other CI that ofer free packages for open source (NOT IMPLEMENTED)
 - Comments by disqus (comments per entry are not implemented, but is first priority)
 
-Site is available (http://www.nomadwiki.net)[http://www.nomadwiki.net]
+Site is available [http://www.nomadwiki.net](http://www.nomadwiki.net)
 
 # Requirements
 - Ruby
@@ -16,9 +16,7 @@ Site is available (http://www.nomadwiki.net)[http://www.nomadwiki.net]
 # Running project locally
 - bundle install
 - middleman 
-- go to http://localhost:4567/
-
-All the changes in files are automatically updated
+- go to [http://localhost:4567/](http://localhost:4567/)
 
 # Goal
 The goal is not gather all posibile products aimed/suitable for digital nomads, but offer information that helps know possibile solutions and helps make educated decision. 
