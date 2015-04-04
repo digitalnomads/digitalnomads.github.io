@@ -1,4 +1,4 @@
-# Introduction
+### Introduction
 There was a need of storing essential information for [#nomads community](http://hashtagnomads.com). Obvios way of doing it is using wiki, but all the wiki engines out there are pretty complicated.So this idea of using github and middleman was born.
 
 - This is completely open source project hosted by Github pages
@@ -9,21 +9,21 @@ There was a need of storing essential information for [#nomads community](http:/
 
 Site is available [http://www.nomadwiki.net](http://www.nomadwiki.net)
 
-# Requirements
+### Requirements
 - Ruby
 - Git
 
-# Running project locally
+### Running project locally
 - bundle install
 - middleman 
 - go to [http://localhost:4567/](http://localhost:4567/)
 
-# Goal
+### Goal
 The goal is not gather all posibile products aimed/suitable for digital nomads, but offer information that helps know possibile solutions and helps make educated decision. 
 
 > give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
 
-# How can you help?
+### How can you help?
 - contribute with links, ideas
 - help with front-end
 - integrate CI with repository that will build and deploy
