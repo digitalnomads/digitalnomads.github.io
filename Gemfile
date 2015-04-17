@@ -11,3 +11,4 @@ gem 'font-awesome-middleman', '~> 4.2.3'
 gem 'middleman-spellcheck', '~> 0.7.5'
 gem 'middleman-disqus', '~> 1.0.0'
 gem 'minitest'
+gem "middleman-google-analytics"

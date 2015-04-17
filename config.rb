@@ -15,6 +15,10 @@ set :layout, 'layouts/application'
 
 page '/modal.html', :layout => false
 
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-61985635-1'
+end
+
 configure :development do
  activate :livereload
 
