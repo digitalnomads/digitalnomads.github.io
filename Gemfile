@@ -12,3 +12,4 @@ gem 'middleman-spellcheck', '~> 0.7.5'
 gem 'middleman-disqus', '~> 1.0.0'
 gem 'minitest'
 gem "middleman-google-analytics"
+gem "middleman-minify-html"

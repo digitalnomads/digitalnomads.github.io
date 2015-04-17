@@ -19,6 +19,13 @@ activate :google_analytics do |ga|
   ga.tracking_id = 'UA-61985635-1'
 end
 
+configure :build do
+  activate :minify_css
+  activate :minify_javascript
+end
+
+activate :minify_html
+
 configure :development do
  activate :livereload
 
