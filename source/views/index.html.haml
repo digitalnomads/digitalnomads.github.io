@@ -38,17 +38,17 @@ title:  HowToDigitalNomad because digital nomads love sharing!
       .fa.fa-github
         Contribute
 .container
-  #community.underline
-    = partial(:category, locals: { title: 'community'} )
-    = partial(:entries, locals: { entries: data.community })
-  #gear.underline
-    = partial(:category, locals: { title: 'gear'} )
-    = partial(:entries, locals: { entries: data.gear })
-  #locations.underline
-    = partial(:category, locals: { title: 'locations'} )
-    = partial(:entries, locals: { entries: data.locations })
   #misc.underline
     = partial(:category, locals: { title: 'misc'} )
     = partial(:entries, locals: { entries: data.misc })
+  #community.underline
+    = partial(:category, locals: { title: 'community'} )
+    = partial(:entries, locals: { entries: data.community })
+  #locations.underline
+    = partial(:category, locals: { title: 'locations'} )
+    = partial(:entries, locals: { entries: data.locations })
+  #gear.underline
+    = partial(:category, locals: { title: 'gear'} )
+    = partial(:entries, locals: { entries: data.gear })
 
 .footer
