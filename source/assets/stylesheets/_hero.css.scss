@@ -7,7 +7,7 @@
   $hero-color: $medium-gray;
   $gradient-angle: 10deg;
 
-  @include background(url('/assets/images/beach_mini.png'));
+  @include background(url('/assets/images/beach_mini.jpg'));
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
