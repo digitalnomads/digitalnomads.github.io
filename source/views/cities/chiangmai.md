@@ -13,8 +13,8 @@ So, to know where you're going at first, simply rent a guest house / hostel / ho
 
 Useful links to find a place for long term stay (1 month or more):
 
-* (Chiang Mai Apartments under THB10000 for Digital Nomads)[http://blog.chrisgrabinski.com/2015/04/26/monthly-apartment-rentals-in-chiang-mai/]
-* (Chiang Mai Buddy - Cheap Hotels: Weekly or Monthly Apartment Accommodation in Chiang Mai Thailand)[http://www.chiangmaibuddy.com/accommodation-chiang-mai/]
+* [Chiang Mai Apartments under THB10000 for Digital Nomads](http://blog.chrisgrabinski.com/2015/04/26/monthly-apartment-rentals-in-chiang-mai/)
+* [Chiang Mai Buddy - Cheap Hotels: Weekly or Monthly Apartment Accommodation in Chiang Mai Thailand](http://www.chiangmaibuddy.com/accommodation-chiang-mai/)
 
 Some other tips:
 
@@ -90,7 +90,7 @@ There's a couple of different data plans and companies out there, and their webs
 * There's a '30 days free entry' in Thailand. Just check the requirements VS your citizenship.
 * You can usually get a tourist visas (depending on your citizenship) with multiple entries. Each entry is good for 2 months, which you can extend for 1 more month. You can get 1, 2 or 3 entries visa. So the longest you can get with a visa would be 3 entries (of 2 months each) and extend them of one more month each time. Which would be a total of 9 months.
 * It gets more and more difficult to get in and out all the time without visas (on 30 days free entries). If you do that, it's preferable if you spend a couple of days (like a week) in other countries before coming back to Thailand.
-* If you're already in Thailand and want a visa, you need to get out in another country. (Here's an article with a couple of other countries where you can go to get a visa for Thailand)[http://live-less-ordinary.com/cheapest-thai-visa-runs-from-bangkok/]
+* If you're already in Thailand and want a visa, you need to get out in another country. [Here's an article with a couple of other countries where you can go to get a visa for Thailand](http://live-less-ordinary.com/cheapest-thai-visa-runs-from-bangkok/)
 * If your visa or '30 days free entry' is ending, you can usually extend it for 30 more days (check the visa requirements for your country). Here's an article to help you with that: [Extend Your Thai Tourist Visa in Chiang Mai](http://www.thewayofslowtravel.com/2014/02/08/how-to-extend-your-thai-tourist-visa-in-chiang-mai/)
 
 
