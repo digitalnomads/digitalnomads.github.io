@@ -13,3 +13,5 @@ gem 'middleman-disqus', '~> 1.0.0'
 gem 'minitest'
 gem "middleman-google-analytics"
 gem "middleman-minify-html"
+
+gem 'redcarpet'

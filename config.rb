@@ -13,6 +13,9 @@ set :images_dir, 'assets/images'
 set :fonts_dir, 'assets/fonts'
 set :layout, 'layouts/application'
 
+set :markdown_engine, :redcarpet
+set :markdown, :fenced_code_blocks => true, :smartypants => true
+
 page '/modal.html', :layout => false
 
 activate :google_analytics do |ga|
