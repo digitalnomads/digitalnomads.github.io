@@ -38,12 +38,16 @@ Often described as the 'hipster' area, this area (mostly on or around Nimman str
 A lot of digital nomads like to stay there because there's a lot of different places where you can comfortably work from (big cafes and coworking spaces) with decent wifis.
 
 
-### The old city
+### The Old City
 
-Often described as the 'backpacker' area, this is where most of the tourists go. There's a lot of guest houses and hostel, restaurants and
+The old city is the 'square' area (if you look at a map), surrounded by a moat (small river). Backpackers often go there, mostly in the north east. This place has a lot of guest houses and restaurants.
 
 
-## Getting around
+### Around the Night Market
+
+This area is where the 'traditional' tourists are staying.
+
+## Getting Around
 
 * You can get around in Songthaews (red trucks). You stop them when you see one, tell them where you're going. If they can go there, they will bring you.
 ** Most of the drivers know the landmarks (gates at the old city, big shopping malls, temples, markets). However, trying to show them a map (paper or on your phone) can be a challenge because most of them aren't used to reading/using maps. 
@@ -53,6 +57,7 @@ Often described as the 'backpacker' area, this is where most of the tourists go.
 ** Check with your insurances / what you can drive legally with your driver's license at home. It's possible that you won't be covered in case of an accident.
 ** It's illegal not to wear a helmet. If you drive without one, you can get arrested and you'll need to pay a fine.
 ** After 3 months in Thailand, you have to have a Thai drivers license. Again, if you don't have one, you can get arrested and will have to pay a fine.
+** It's helpful to have an international driving licence when driving in Thailand, otherwise you could be fined.
 * Tuk-tuks are usually more expensive than other alternatives. 
 * Taxis are less common than say in Bangkok. You usually have to phone one if you need a pickup. You can also ask  at your accommodation if you need one.
 
