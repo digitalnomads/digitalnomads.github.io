@@ -112,25 +112,16 @@ As Vietnamese is written in Latin characters, with some effort, you’ll be able
 
 Some useful terms (and do note, that, like many expressions, the meaning and pronunciation can differ greatly between Hanoi and Saigon):
 
-bún - Vermicelli noodles.
-
-bún chả - a grilled pork and noodle dish originating in Hanoi.
-
-mắm - depending on the context, any number of fermented fish sauces or shrimp pastes.
-
-bánh mì - a baguette filled with stuff; often pate, some pork. On its own, bánh can refer to cakes, breads, crepes, etc.
-
-cà phê - coffee. The Vietnamese traditional variety is a slow drip, heavy on Robusta beans and consequently, caffeine. It comes in a few varieties: đá, or iced, sữa, with milk, or đen (không đường if you don’t want sugar). Vietnam is the world’s second largest producer of coffee and it shows.
-
-bánh xèo, bánh khọt - a large and small sort of crepe, respectively, stuffed.
-
-chả giò - delicious fried spring rolls. Compare with gỏi cuốn, a fresh spring roll, wrapped in rice paper (bánh tráng).
-
-cơm tấm - broken rice-based dishes. These are especially delicious.
-
-phở - the ubiquitous noodle soup, typically seen in beef and chicken varieties.
-
-bún bò Huế - an excellent beef noodle soup from the central region.
+- bún - Vermicelli noodles.
+- bún chả - a grilled pork and noodle dish originating in Hanoi.
+- mắm - depending on the context, any number of fermented fish sauces or shrimp pastes.
+- bánh mì - a baguette filled with stuff; often pate, some pork. On its own, bánh can refer to cakes, breads, crepes, etc.
+- cà phê - coffee. The Vietnamese traditional variety is a slow drip, heavy on Robusta beans and consequently, caffeine. It comes in a few varieties: đá, or iced, sữa, with milk, or đen (không đường if you don’t want sugar). Vietnam is the world’s second largest producer of coffee and it shows.
+- bánh xèo, bánh khọt - a large and small sort of crepe, respectively, stuffed.
+- chả giò - delicious fried spring rolls. Compare with gỏi cuốn, a fresh spring roll, wrapped in rice paper (bánh tráng).
+- cơm tấm - broken rice-based dishes. These are especially delicious.
+- phở - the ubiquitous noodle soup, typically seen in beef and chicken varieties.
+- bún bò Huế - an excellent beef noodle soup from the central region.
 
 Expect to pay in the range of 20-50,000 đồng for street food, more than double that in a sit-down restaurant.
 
@@ -148,41 +139,41 @@ James Clark from Nomadic Notes is always a good resource. See his piece on the s
 
 With such an abundance of cafes, coworking may be the least essential of Saigon’s features. But the spaces are well designed, as they must be to compete with the cafe scene.
 
-Work Saigon ([](http://www.worksaigon.com)[http://www.worksaigon.com](http://www.worksaigon.com)) 267/2 Dien Bien Phu, Ward 7, District 3
+- Work Saigon ([](http://www.worksaigon.com)[http://www.worksaigon.com](http://www.worksaigon.com)) 267/2 Dien Bien Phu, Ward 7, District 3
 
-START Saigon ([](http://start-saigon.com)[http://start-saigon.com](http://start-saigon.com)) 18bis/14 Nguyen Thi Minh Khai (near the nomad alley, 18A)
+- START Saigon ([](http://start-saigon.com)[http://start-saigon.com](http://start-saigon.com)) 18bis/14 Nguyen Thi Minh Khai (near the nomad alley, 18A)
 
-Saigon Coworking ([](http://saigoncoworking.com)[http://saigoncoworking.com](http://saigoncoworking.com)) 101 Cu Lao, Phu Nhuan
+- Saigon Coworking ([](http://saigoncoworking.com)[http://saigoncoworking.com](http://saigoncoworking.com)) 101 Cu Lao, Phu Nhuan
 
 ### Places to work
 
 Saigon has such an embarrassment of riches when it comes to cafe selection, I almost hesitate to mention specific places. Surely this city has the highest quantity of coffee available per capita.
 
-The Workshop cafe and roaster ([](https://www.facebook.com/the.workshop.coffee)[https://www.facebook.com/the.workshop.coffee](https://www.facebook.com/the.workshop.coffee)) - for the only decent (and only decent) espresso in town. High-ceilinged, contemporary, right in the center of the business district, with lovely views.
+- The Workshop cafe and roaster ([](https://www.facebook.com/the.workshop.coffee)[https://www.facebook.com/the.workshop.coffee](https://www.facebook.com/the.workshop.coffee)) - for the only decent (and only decent) espresso in town. High-ceilinged, contemporary, right in the center of the business district, with lovely views.
 
-Bâng Khuâng Café ([](https://www.facebook.com/BangkhuangCafe)[https://www.facebook.com/BangkhuangCafe](https://www.facebook.com/BangkhuangCafe)), 9 Thái Văn Lung Beautiful cafe, a bit hidden, open since the war. Food is excellent. Busy around lunch.
+- Bâng Khuâng Café ([](https://www.facebook.com/BangkhuangCafe)[https://www.facebook.com/BangkhuangCafe](https://www.facebook.com/BangkhuangCafe)), 9 Thái Văn Lung Beautiful cafe, a bit hidden, open since the war. Food is excellent. Busy around lunch.
 
-L’Uisine ([](http://lusinespace.com/)[http://lusinespace.com/](http://lusinespace.com/)), thoughtfully decorated boutique and cafe. Two locations: 70 Lê Lợi, Bến Thành (inside the shop, head upstairs) and 151/1 Dong Khoi St., 1st Flr., Dist. 1, Ho Chi Minh City (through an alley, to the right and upstairs)
+- L’Uisine ([](http://lusinespace.com/)[http://lusinespace.com/](http://lusinespace.com/)), thoughtfully decorated boutique and cafe. Two locations: 70 Lê Lợi, Bến Thành (inside the shop, head upstairs) and 151/1 Dong Khoi St., 1st Flr., Dist. 1, Ho Chi Minh City (through an alley, to the right and upstairs)
 
-Juicy Smoothie Bar (Adjacent to Nguyễn Thị Minh Khai, hẻm (alley) 18A, a residential area full of nomads) - daily morning assembly of paleo junkies, eating bowls of bacon like potato chips, and green-smoothie lovers.
+- Juicy Smoothie Bar (Adjacent to Nguyễn Thị Minh Khai, hẻm (alley) 18A, a residential area full of nomads) - daily morning assembly of paleo junkies, eating bowls of bacon like potato chips, and green-smoothie lovers.
 
-StoryM, ([](http://storymcafe.com/)[http://storymcafe.com/](http://storymcafe.com/)) 51 Trần Nhật Duật, Tân Định, Quận 1
+- StoryM, ([](http://storymcafe.com/)[http://storymcafe.com/](http://storymcafe.com/)) 51 Trần Nhật Duật, Tân Định, Quận 1
 
-iD Cafe (34D Thu Khoa Huan Street, District 1, Bến Thành and the even more carefully designed spot in District 3: 61 Tú Xương 7, District 3)
+- iD Cafe (34D Thu Khoa Huan Street, District 1, Bến Thành and the even more carefully designed spot in District 3: 61 Tú Xương 7, District 3)
 
-M2C ([](https://www.facebook.com/m2ccafe)[https://www.facebook.com/m2ccafe](https://www.facebook.com/m2ccafe), Modern Meets Culture), run by the same owners as iD Cafe, has fine food and a pleasant setting. On the way, you can watch street vendors serve food using stoops as a prep surface, a step each for the soup, limes and vegetables. (44B Lý Tự Trọn)
+- M2C ([](https://www.facebook.com/m2ccafe)[https://www.facebook.com/m2ccafe](https://www.facebook.com/m2ccafe), Modern Meets Culture), run by the same owners as iD Cafe, has fine food and a pleasant setting. On the way, you can watch street vendors serve food using stoops as a prep surface, a step each for the soup, limes and vegetables. (44B Lý Tự Trọn)
 
-Stop Coffee, popular with nomads, on the other side of the Nguyen Thi Minh Khai 18A alley from Juicy. Has an upstairs area with a standing-desk bar.
+- Stop Coffee, popular with nomads, on the other side of the Nguyen Thi Minh Khai 18A alley from Juicy. Has an upstairs area with a standing-desk bar.
 
-Coffee Bean & Tea Leaf ([](http://www.coffeebean.com.vn/)[http://www.coffeebean.com.vn/](http://www.coffeebean.com.vn/)), international chain, many locations. The one at 27 Hàn Thuyên Bến Nghé has a secret upstairs area slightly separated from the main shop. There’s a pleasant outdoor patio at the Saigon Trade Building (37 Tôn Đức Thắng) location.
+- Coffee Bean & Tea Leaf ([](http://www.coffeebean.com.vn/)[http://www.coffeebean.com.vn/](http://www.coffeebean.com.vn/)), international chain, many locations. The one at 27 Hàn Thuyên Bến Nghé has a secret upstairs area slightly separated from the main shop. There’s a pleasant outdoor patio at the Saigon Trade Building (37 Tôn Đức Thắng) location.
 
-Coffee House ([](https://www.facebook.com/The.Coffee.House.2014)[https://www.facebook.com/The.Coffee.House.2014](https://www.facebook.com/The.Coffee.House.2014)) - a local chain, many locations. All have comfortable places to sit and work, with plenty of power outlets, fast wifi, professional service and loyalty cards. I prefer the one at 25 Nguyen Thi Minh Khai, which features a large central table with outlets.
+- Coffee House ([](https://www.facebook.com/The.Coffee.House.2014)[https://www.facebook.com/The.Coffee.House.2014](https://www.facebook.com/The.Coffee.House.2014)) - a local chain, many locations. All have comfortable places to sit and work, with plenty of power outlets, fast wifi, professional service and loyalty cards. I prefer the one at 25 Nguyen Thi Minh Khai, which features a large central table with outlets.
 
-Coffee Factory ([](https://www.facebook.com/ThecoffeefactoryVN)[https://www.facebook.com/ThecoffeefactoryVN](https://www.facebook.com/ThecoffeefactoryVN)), many locations. Cheap, casual, open late. Try the one at Mạc Đĩnh Chi.
+- Coffee Factory ([](https://www.facebook.com/ThecoffeefactoryVN)[https://www.facebook.com/ThecoffeefactoryVN](https://www.facebook.com/ThecoffeefactoryVN)), many locations. Cheap, casual, open late. Try the one at Mạc Đĩnh Chi.
 
-Trung Nguyen ([](http://www.trungnguyen.com.vn/en/)[http://www.trungnguyen.com.vn/en/](http://www.trungnguyen.com.vn/en/)) - many locations, showing their age. Try 211 Nguyễn Thái Học & Phạm Ngũ Lão.
+- Trung Nguyen ([](http://www.trungnguyen.com.vn/en/)[http://www.trungnguyen.com.vn/en/](http://www.trungnguyen.com.vn/en/)) - many locations, showing their age. Try 211 Nguyễn Thái Học & Phạm Ngũ Lão.
 
-Nest by AIA - an incredible, newly opened workspace and cafe. More details here: [](http://www.adventurefaktory.com/sgnworkcafenest/)[http://www.adventurefaktory.com/sgnworkcafenest/](http://www.adventurefaktory.com/sgnworkcafenest/). In the Bitexco Financial Tower, 2nd Floor.
+- Nest by AIA - an incredible, newly opened workspace and cafe. More details here: [](http://www.adventurefaktory.com/sgnworkcafenest/)[http://www.adventurefaktory.com/sgnworkcafenest/](http://www.adventurefaktory.com/sgnworkcafenest/). In the Bitexco Financial Tower, 2nd Floor.
 
 More cafes: [](http://www.nomadicnotes.com/travel-blog/ho-chi-minh-city-cafes)[http://www.nomadicnotes.com/travel-blog/ho-chi-minh-city-cafes](http://www.nomadicnotes.com/travel-blog/ho-chi-minh-city-cafes)
 
@@ -247,47 +238,3 @@ Groceries available at co.op marts.
 The war museum offers a horrifying and fascinating perspective, notably expunged of virtually any South Vietnamese and coalition forces in favor of, let's say, presenting a tighter narrative.
 
 Jon Myers’ incomparable post, “Bootstrapping in Saigon” - [](https://medium.com/@jonmyers/bootstrapping-in-saigon-fc9744367386)[https://medium.com/@jonmyers/bootstrapping-in-saigon-fc9744367386](https://medium.com/@jonmyers/bootstrapping-in-saigon-fc9744367386)
-
-* * *
-
-# Disclaimer
-
-**Copyright © Nomad List**
-
-**Legal TL;DR:** This guide might be inaccurate and we're not responsible for any bad stuff happening to you because of using info in it.
-
-* * *
-
-Data on Nomad List, its site, apps and guides is crowdsourced from lots of people's inputs. By the nature of the data, it's impossible to get it completely accurate. Therefore, we accept no responsibility for any loss, injury or inconvenience resulting from using Nomad List's websites, apps and guides. You should verify critical information (like visas, health and safety) before you travel. Most countries do require a working/business visa if you'd like to work there. Working on a tourist visa is probably illegal. Please make sure you verify all of a country's requirements for travel with its embassy and your embassy before you travel. Many third-world cities may be extremely dangerous for tourists and travelers, make sure you stay safe and verify which areas to avoid.
-
-Nomad List accepts no liability or responsibility to any person or organisation as a consequence of any reliance upon the information contained in its sites like Nomad List, Nomad Forum and any other of its sites and properties.
-
-We collect data about your browser, IP, location for analytics purposes. We also use your location to show you distance and flight duration to different cities. If you contribute content data to the site (including to the crowdsourced city list and the forum (Nomad List Questions)), you provide us with a perpetual license to broadcast, display, distribute, sell and produce derivatives from your contributions.
-
-Every effort is made to provide information that is accurate. However, materials contained in Nomad List's websites, apps and guides are subject to change at any time by appropriate action of Nomad List. We give no assurance or warranty that information on this site is current, and take no responsibility for matters arising from changed circumstances or other information or material which may affect the accuracy or currency of information on this site.
-
-Copyright in Nomad List's websites, apps and guides rests with Nomad List unless otherwise stated.
-
-The information posted here should not be considered legal, financial or other advice and is not intended to replace consultation with a qualified professional or specific written confirmation from Nomad List. We do not answer specific legal or financial questions.
-
-Nomad List's websites, apps and guides is provided on an “as is”, “as available” basis without warranties of any kind, express or implied, including, but not limited to, those of TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE or NON-INFRINGEMENT or any warranty arising from a course of dealing, usage, or trade practice. No advice or written information provided shall create a warranty; nor shall members or visitors to the site rely on any such information or advice. This publication is not intended to be a contract, explicit or implied, and Nomad List reserves the right to make changes to the information contained.
-
-The user assumes all responsibility and risk for the use of Nomad List's websites, apps and guides and the Internet generally. We accept no liability or responsibility to any person or organisation as a consequence of any reliance upon the information contained in this site. Under no circumstances, including negligence, shall anyone involved in creating or maintaining Nomad List's websites, apps and guides be liable for any direct, indirect, incidental, special or consequential damages, or loss profits that result from the use or inability to use the Website and/or any other websites which are linked to this site. Nor shall they be liable for any such damages including, but not limited to, reliance by a member or visitor on any information obtained via the Website; or that result from mistakes, omissions, interruptions, deletion of files, viruses, errors, defects, or failure of performance, communications failure, theft, destruction or unauthorized access. States or Countries which do not allow some or all of the above limitations of liability, liability shall be limited to the greatest extent allowed by law.
-
-Visitors agree to use the Website only for lawful purposes and are prohibited from posting on the Website any unlawful, harmful, threatening, abusive, harassing, defamatory, or obscene material of any kind, including, but not limited to, any material which encourages conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any applicable local, state, national or international law. Although in the absence of a specific complaint the postings are monitored for compliance with this provision, in an effort to discourage such conduct, please note that all postings in any forum area will list the author’s name and institution - no anonymous postings will be permitted.
-
-We are distributors (not publishers) of the content supplied by visitors and other third parties. Accordingly, we have no more editorial control over this content than does a public library. Any opinions, advice, statements, services, offers or other information or content made available by members, visitors and other third parties are those of the respective author(s) and we are not responsible for any material posted by third parties. We cannot and do not endorse it in any way, we expressly disclaim any liability associated with material posted by third parties.
-
-Unless otherwise stated, reference to any products, services, hypertext link to the third parties or other information by trade name, trademark, supplier or otherwise does not constitute or imply its endorsement, sponsorship or recommendation by us. Nor is endorsement of us implied by such links. They are for convenience only, as an index in a public library.
-
-Any information on Nomad List's websites, apps and guides may include technical inaccuracies or typographical errors. Furthermore, the information may change from time to time without any notice.
-
-You agree to observe and maintain the confidentiality of all security features relating to use of the Website (including passwords, access arrangements etc) as notified. Nomad List will not be liable for any unauthorised breach or disclosure of the security features.
-
-You agree to indemnify Nomad List (its employees and agents) for any loss suffered or liability incurred by Nomad List (its employees and agents) arising from any unlawful, unauthorised or improper access or use of the Website or any breach of these terms by you or your employees, contractors or representatives.
-
-Nomad List does not guarantee constant availability of Website access and accept no liability for down time or access failure due to circumstances beyond its reasonable control (including any failure by ISP or system provider).
-
-The Site may contain links to other sites on the internet (“Linked Sites”). Nomad List is not responsible for the accuracy, legality, decency of material or copyright compliance of any Linked Site or services or information provided via any Linked Site.
-
-No data transmission over the Internet can be guaranteed as totally secure. Whilst we strive to protect such information we do not warrant and cannot ensure the security of information which you transm.
