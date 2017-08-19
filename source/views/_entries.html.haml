@@ -3,14 +3,14 @@
   %li.entry
     .entry-content
       = link_to line[1], line[0]
-      .modal.comments
-        %label{:for => WikiHelpers.generate_id(line[1])}
-          %a
-            %i.fa.fa-comment-o
-        %input.modal-state{:id=> WikiHelpers.generate_id(line[1]), :type => "checkbox"}/
-        .modal-window
-          .modal-inner
-            %label.modal-close{:for => WikiHelpers.generate_id(line[1])}
-            %h2
-              = line[1]
-            %iframe{:'data-src' => "modal"}
+      -# .modal.comments
+      -#   %label{:for => WikiHelpers.generate_id(line[1])}
+      -#     %a
+      -#       %i.fa.fa-comment-o
+      -#   %input.modal-state{:id=> WikiHelpers.generate_id(line[1]), :type => "checkbox"}/
+      -#   .modal-window
+      -#     .modal-inner
+      -#       %label.modal-close{:for => WikiHelpers.generate_id(line[1])}
+      -#       %h2
+      -#         = line[1]
+      -#       %iframe{:'data-src' => "modal"}
